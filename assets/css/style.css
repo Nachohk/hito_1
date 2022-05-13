@@ -1,11 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
 html{
     scroll-behavior: auto !important;
 }
 
 .navbar{
-   /* position: fixed; */
-    z-index: 1;
+   position: fixed;
+    /* z-index: 1; */
+
     width: 100vw;
+    background-color: orange;
+    border:auto;
 }
 
 .nav-light{
@@ -58,11 +68,15 @@ body{
 }
 
 #footer{
-    background-color: #FF7700;
+    background-color: orange;
     margin-top: 3rem;
 }
 
 #footer a{
     color: white;
     text-decoration: none;
+}
+
+.carousel-item {
+    position:relative;
 }
