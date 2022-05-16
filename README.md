@@ -6,6 +6,9 @@ https://nachohk.github.io/hito_1/
 Historias de usuarios
 
 ![historiasdeusuarios](https://user-images.githubusercontent.com/101264978/168401991-adb1b99b-741c-4684-8cce-58b7f74e54cf.jpeg)
+![historiadeusuario1](https://user-images.githubusercontent.com/101264978/168633373-675c1f2d-3342-422a-9f64-d900b48c51fe.jpeg)
+![historiadeusuario2](https://user-images.githubusercontent.com/101264978/168633378-3ad2ea0e-ba5e-47d9-84bf-c91b15487d89.jpeg)
+![historiadeusuario3](https://user-images.githubusercontent.com/101264978/168633381-c0300277-d8ec-4d36-9f21-e6baf8eba378.jpeg)
 
 Modelo fisico
 
